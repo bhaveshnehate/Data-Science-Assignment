@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# # Assignment No.3
 
 # # Q1- Hypothesis Testing Exercise
 
